@@ -1,3 +1,5 @@
+![cine-wave](https://github.com/user-attachments/assets/5fb2131a-7a7e-422d-98b1-1cadb73cba3a)
+
 # 🚀 Explore Movies and TV Shows Effortlessly with CineWave 🎥
 Discover, search, and enjoy a seamless browsing experience with our feature-packed Movie Application.
 
